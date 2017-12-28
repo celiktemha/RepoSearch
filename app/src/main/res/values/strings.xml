@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">RepoSearch</string>
     <string name="username">username</string>
-    <string name="noresult">No Result</string>
+    <string name="no_result">No Result</string>
+    <string name="error">Error Occurred</string>
+    <string name="empty_username">Empty Username</string>
 </resources>

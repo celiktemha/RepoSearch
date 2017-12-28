@@ -1,4 +1,4 @@
-package com.celiktemha.reposearch.data.remote;
+package com.celiktemha.reposearch.model.remote;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.moshi.MoshiConverterFactory;

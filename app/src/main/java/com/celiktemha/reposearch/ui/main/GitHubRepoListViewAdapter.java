@@ -1,4 +1,4 @@
-package com.celiktemha.reposearch.main;
+package com.celiktemha.reposearch.ui.main;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,7 +7,7 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.celiktemha.reposearch.R;
-import com.celiktemha.reposearch.data.entities.GitHubRepoListItem;
+import com.celiktemha.reposearch.model.entities.GitHubRepoListItem;
 
 import java.util.List;
 

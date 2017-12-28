@@ -1,6 +1,6 @@
-package com.celiktemha.reposearch.data.remote;
+package com.celiktemha.reposearch.model.remote;
 
-import com.celiktemha.reposearch.data.entities.GitHubRepoListItem;
+import com.celiktemha.reposearch.model.entities.GitHubRepoListItem;
 
 import java.util.List;
 

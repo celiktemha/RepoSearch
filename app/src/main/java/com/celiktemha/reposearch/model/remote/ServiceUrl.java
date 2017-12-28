@@ -1,4 +1,4 @@
-package com.celiktemha.reposearch.data.remote;
+package com.celiktemha.reposearch.model.remote;
 
 /**
  * Created by protemha on 17/12/27.
