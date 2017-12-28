@@ -1,7 +1,7 @@
 package com.celiktemha.reposearch.model.entities;
 
 /**
- * Created by protemha on 17/12/27.
+ * Created by celiktemha on 17/12/27.
  */
 
 public class GitHubRepoListItem {

@@ -1,7 +1,7 @@
 package com.celiktemha.reposearch.ui.base;
 
 /**
- * Created by protemha on 17/12/28.
+ * Created by celiktemha on 17/12/28.
  */
 
 public interface BaseView {

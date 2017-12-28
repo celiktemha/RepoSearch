@@ -9,7 +9,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 /**
- * Created by protemha on 17/12/27.
+ * Created by celiktemha on 17/12/27.
  */
 
 public interface GitHubServiceInterface {

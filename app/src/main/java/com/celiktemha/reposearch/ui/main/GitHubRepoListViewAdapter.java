@@ -12,7 +12,7 @@ import com.celiktemha.reposearch.model.entities.GitHubRepoListItem;
 import java.util.List;
 
 /**
- * Created by protemha on 17/12/27.
+ * Created by celiktemha on 17/12/27.
  */
 
 public class GitHubRepoListViewAdapter extends BaseAdapter {

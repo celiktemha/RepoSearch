@@ -4,7 +4,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.moshi.MoshiConverterFactory;
 
 /**
- * Created by protemha on 17/12/27.
+ * Created by celiktemha on 17/12/27.
  */
 
 public class DataServiceProvider {

@@ -13,7 +13,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Created by protemha on 17/12/28.
+ * Created by celiktemha on 17/12/28.
  */
 
 public class MainPresenter extends BasePresenter<MainView> {

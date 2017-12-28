@@ -6,7 +6,7 @@ import com.celiktemha.reposearch.model.entities.GitHubRepoListItem;
 import java.util.List;
 
 /**
- * Created by protemha on 17/12/28.
+ * Created by celiktemha on 17/12/28.
  */
 
 public interface MainView extends BaseView {
