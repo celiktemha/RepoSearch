@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RepoSearch</string>
+    <string name="username">username</string>
+    <string name="noresult">No Result</string>
+</resources>
